@@ -4,7 +4,7 @@ export const PackWrapper = styled.div`
 
 `;
 
-export const OptionsWrapper = styled.div`
+export const OptionsWrapper = styled.section`
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 50px;
@@ -59,7 +59,7 @@ export const OptionIcon = styled.img`
   fill: #CCE3FF;
 `;
 
-export const SolutionWrapper = styled.div`
+export const SolutionWrapper = styled.section`
   display: grid;
   grid-template-columns: 1fr 3fr;
   //padding: 50px 0;

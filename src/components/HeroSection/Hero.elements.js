@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import {FaPen} from "react-icons/all";
 
-export const HeroContainer = styled.div`
+export const HeroContainer = styled.section`
   background: #ffffff;
   display: flex;
   justify-content: center;
